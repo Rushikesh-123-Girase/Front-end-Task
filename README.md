@@ -24,4 +24,4 @@ Framer Motion: For adding smooth animations and transitions to the components.
 Shadcn UI: (if applicable) For any UI components that enhance the design (not explicitly used in the provided code but can be integrated as needed).
 TypeScript: (optional) For type safety and better development experience (not explicitly used in the provided code but can be added).
 Conclusion
-This project allowed me to practice my frontend development skills, particularly in creating animations and responsive layouts. The use of modern technologies like React and Tailwind CSS made the development process efficient and enjoyable
+This project allowed me to practice my frontend development skills, particularly in creating animations and responsive layouts. The use of modern technologies like React and Tailwind CSS made the development process efficient and enjoyable.
